@@ -13,6 +13,8 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Switch;
 
+import java.util.ArrayList;
+
 /**
  * Created by itsadmin on 9/25/2016.
  */
